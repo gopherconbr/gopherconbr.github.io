@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GopherConBR 2020</title>
+    <title>GopherConBR 2022</title>
     <link>http://gopherconbr.org/</link>
-    <description>Recent content on GopherConBR 2020</description>
+    <description>Recent content on GopherConBR 2022</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Tue, 30 Aug 2016 13:23:09 -0300</lastBuildDate><atom:link href="http://gopherconbr.org/index.xml" rel="self" type="application/rss+xml" />
