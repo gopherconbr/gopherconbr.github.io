@@ -8,34 +8,62 @@
     <language>pt-BR</language>
     <lastBuildDate>Mon, 16 May 2016 18:54:34 -0400</lastBuildDate><atom:link href="http://gopherconbr.org/sponsors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Backplane</title>
-      <link>http://gopherconbr.org/sponsors/silver/backplane/</link>
+      <title>silver</title>
+      <link>http://gopherconbr.org/sponsors/silver/</link>
       <pubDate>Mon, 16 May 2016 18:54:34 -0400</pubDate>
       
-      <guid>http://gopherconbr.org/sponsors/silver/backplane/</guid>
-      <description>backplane is the intelligent routing service for modern web applications and APIs. Backplane unifies service discovery, routing, and load balancing for apps written in any language, running on servers in any cloud or datacenter.</description>
-    </item>
-    
-    <item>
-      <title>CoreOS</title>
-      <link>http://gopherconbr.org/sponsors/gold/coreos/</link>
-      <pubDate>Fri, 13 May 2016 18:54:34 -0400</pubDate>
-      
-      <guid>http://gopherconbr.org/sponsors/gold/coreos/</guid>
-      <description>CoreOS runs the world&amp;rsquo;s containers securely on CoreOS, Tectonic and Quay. CoreOS is the creator of Tectonic, the universal Kubernetes solution, that combines Google&amp;rsquo;s Kubernetes and the CoreOS stack to deploy, manage and secure containers anywhere. CoreOS&#39; Quay technology allows companies to securely store Linux containers in private hosted repositories or behind customer&amp;rsquo;s firewalls. In addition, CoreOS is the creator and maintainer of open source projects CoreOS Linux, etcd, fleet, flannel and rkt.</description>
-    </item>
-    
-    <item>
-      <title>LinkedIn</title>
-      <link>http://gopherconbr.org/sponsors/bronze/linkedin/</link>
-      <pubDate>Fri, 13 May 2016 18:54:34 -0400</pubDate>
-      
-      <guid>http://gopherconbr.org/sponsors/bronze/linkedin/</guid>
+      <guid>http://gopherconbr.org/sponsors/silver/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NATS</title>
+      <title>bronze</title>
+      <link>http://gopherconbr.org/sponsors/bronze/</link>
+      <pubDate>Fri, 13 May 2016 18:54:34 -0400</pubDate>
+      
+      <guid>http://gopherconbr.org/sponsors/bronze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gold</title>
+      <link>http://gopherconbr.org/sponsors/gold/</link>
+      <pubDate>Fri, 13 May 2016 18:54:34 -0400</pubDate>
+      
+      <guid>http://gopherconbr.org/sponsors/gold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diamond</title>
+      <link>http://gopherconbr.org/sponsors/diamond/</link>
+      <pubDate>Mon, 23 Mar 2015 18:54:34 -0400</pubDate>
+      
+      <guid>http://gopherconbr.org/sponsors/diamond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exhibitor</title>
+      <link>http://gopherconbr.org/sponsors/exhibitor/</link>
+      <pubDate>Mon, 23 Mar 2015 18:54:34 -0400</pubDate>
+      
+      <guid>http://gopherconbr.org/sponsors/exhibitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>platinum</title>
+      <link>http://gopherconbr.org/sponsors/platinum/</link>
+      <pubDate>Mon, 23 Mar 2015 18:54:34 -0400</pubDate>
+      
+      <guid>http://gopherconbr.org/sponsors/platinum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+</title>
       <link>http://gopherconbr.org/sponsors/bronze/nats/</link>
       <pubDate>Fri, 13 May 2016 18:54:34 -0400</pubDate>
       
