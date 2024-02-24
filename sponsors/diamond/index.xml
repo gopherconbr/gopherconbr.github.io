@@ -6,24 +6,21 @@
     <description>Recent content in diamond on GopherCon Brasil 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 23 Mar 2015 18:54:34 -0400</lastBuildDate><atom:link href="http://gopherconbr.org/sponsors/diamond/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Mar 2015 18:54:34 -0400</lastBuildDate>
+    <atom:link href="http://gopherconbr.org/sponsors/diamond/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google</title>
       <link>http://gopherconbr.org/en/sponsors/diamond/google/</link>
       <pubDate>Mon, 23 Mar 2015 18:54:34 -0400</pubDate>
-      
       <guid>http://gopherconbr.org/en/sponsors/diamond/google/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Google</title>
       <link>http://gopherconbr.org/sponsors/diamond/google/</link>
       <pubDate>Mon, 23 Mar 2015 18:54:34 -0400</pubDate>
-      
       <guid>http://gopherconbr.org/sponsors/diamond/google/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
